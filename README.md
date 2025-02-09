@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👨🏻‍💻 Matheus Iven
 
-<!--
-**matheusiven/matheusiven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudande de Programação`**
 
-Here are some ideas to get you started:
+Olá! Me chamo Matheus Iven, tenho 18 anos e sou natural do Ceará. Estou começando no mundo da programação e minha meta é virar um Desenvolvedor Fullstack de sucesso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
