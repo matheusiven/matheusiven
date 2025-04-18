@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Matheus Iven
 
-**`Estudande de Programação`**
+**`Ciência da Computação`**
 
-Olá! Me chamo Matheus Iven, tenho 18 anos e sou natural do Ceará. Estou começando no mundo da programação e minha meta é virar um Desenvolvedor Fullstack de sucesso.
+Olá! Me chamo Matheus Iven e tenho 18 anos. Estou começando no mundo da programação e minha meta é virar um Desenvolvedor BackEnd de sucesso.
 
 ---
 
